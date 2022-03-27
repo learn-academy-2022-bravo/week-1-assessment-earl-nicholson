@@ -15,33 +15,33 @@ INSTRUCTOR EXAMPLE: What is a conditional statement?
 
 1. What is git? What is the difference between git and Github?
 
-  Your answer:
+  Your answer: git is a local operating system that logs past file changes. Github is an online version of git for programmers to work together.
 
-  Researched answer:
+  Researched answer: Git is a control system to manage different programming projects. Git is a local source and Github is an online source
 
 
 
 2. Which JavaScript operators will return a Boolean value?
 
-  Your answer:
+  Your answer: Greater than, equal to, less than will return a Boolean value.
 
-  Researched answer:
+  Researched answer:Greater than, equal to, less than will return a Boolean value. More specifically loose equality (==), and strict equality (===)
 
 
 
 3. What is an index? What is the difference between index and value?
 
-  Your answer:
+  Your answer: An index is the position of a value inside of an array. the difference between a index and a value is how they are counted. An index starts with 0 while a value start at 1.
 
-  Researched answer:
+  Researched answer: An index is the location of an expression. A value refers to the information that is at the location of the index.
 
 
 
 4. What is iteration?
 
-  Your answer:
+  Your answer: An iteration is how you progresss though a something. Either one after another or ever other, and even backwards.
 
-  Researched answer:
+  Researched answer: An iteration allows a loop to move through a data in a set way without repeating itself.
 
 
 
