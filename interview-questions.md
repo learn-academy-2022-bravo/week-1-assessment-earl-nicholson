@@ -15,41 +15,41 @@ INSTRUCTOR EXAMPLE: What is a conditional statement?
 
 1. What is git? What is the difference between git and Github?
 
-  Your answer:
+  Your answer: git is a local operating system that logs past file changes. Github is an online version of git for programmers to work together.
 
-  Researched answer:
+  Researched answer: Git is a control system to manage different programming projects. Git is a local source and Github is an online source
 
 
 
 2. Which JavaScript operators will return a Boolean value?
 
-  Your answer:
+  Your answer: Greater than, equal to, less than will return a Boolean value.
 
-  Researched answer:
+  Researched answer:Greater than, equal to, less than will return a Boolean value. More specifically loose equality (==), and strict equality (===)
 
 
 
 3. What is an index? What is the difference between index and value?
 
-  Your answer:
+  Your answer: An index is the position of a value inside of an array. the difference between a index and a value is how they are counted. An index starts with 0 while a value start at 1.
 
-  Researched answer:
+  Researched answer: An index is the location of an expression. A value refers to the information that is at the location of the index.
 
 
 
 4. What is iteration?
 
-  Your answer:
+  Your answer: An iteration is how you progresss though a something. Either one after another or ever other, and even backwards.
 
-  Researched answer:
+  Researched answer: An iteration allows a loop to move through a data in a set way without repeating itself.
 
 
 
 5. Give a brief description of proper pair programming techniques. What are the roles of each person?
 
-  Your answer:
+  Your answer: Pair programming techniques is having a driver and a navigator. The driver is the person writing the code. The navigator is the person telling the driver what needs to be coded and catches typos. After a determined time or stage both driver and navigator switch.
 
-  Researched answer:
+  Researched answer: Pair programming is having two programmers work on a single code to share the mental work load. The programmer that is writing code is called the driver. While the other determines what needs to be coded and points out any mistakes and that person is called the navigator. Both driver and navigator switch often to prevent fatigue.
 
 
 
@@ -57,12 +57,12 @@ INSTRUCTOR EXAMPLE: What is a conditional statement?
 
 Research and define the following terms to the best of your ability.
 
-1. Higher Order Functions:
+1. Higher Order Functions: A function within a function.
 
-2. Jest:
+2. Jest: A framework created by meta that acts like a spellcheck.
 
-3. Objects:
+3. Objects: Is a data type that contains a key and value.
 
-4. Method:
+4. Method: A function that is used with an object.
 
-5. Classes:
+5. Classes: Data type that contains multiple functions.
