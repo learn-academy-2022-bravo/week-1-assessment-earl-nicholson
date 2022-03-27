@@ -47,9 +47,9 @@ INSTRUCTOR EXAMPLE: What is a conditional statement?
 
 5. Give a brief description of proper pair programming techniques. What are the roles of each person?
 
-  Your answer:
+  Your answer: Pair programming techniques is having a driver and a navigator. The driver is the person writing the code. The navigator is the person telling the driver what needs to be coded and catches typos. After a determined time or stage both driver and navigator switch.
 
-  Researched answer:
+  Researched answer: Pair programming is having two programmers work on a single code to share the mental work load. The programmer that is writing code is called the driver. While the other determines what needs to be coded and points out any mistakes and that person is called the navigator. Both driver and navigator switch often to prevent fatigue.
 
 
 
@@ -57,12 +57,12 @@ INSTRUCTOR EXAMPLE: What is a conditional statement?
 
 Research and define the following terms to the best of your ability.
 
-1. Higher Order Functions:
+1. Higher Order Functions: A function within a function.
 
-2. Jest:
+2. Jest: A framework created by meta that acts like a spellcheck.
 
-3. Objects:
+3. Objects: Is a data type that contains a key and value.
 
-4. Method:
+4. Method: A function that is used with an object.
 
-5. Classes:
+5. Classes: Data type that contains multiple functions.
